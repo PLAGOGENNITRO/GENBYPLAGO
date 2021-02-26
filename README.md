@@ -1,6 +1,5 @@
-# nitro
-This repository is protected by the CC-BY-ND 4.0 License.
+ESTE GEN ES UN GEN EXCLUSIVO DE PLAGO Y SU CANAL DE YOUTUBE LO PUEDES UTILIZAR SIEMPRE Y CUANDO DES UN ALGO A CAMBIO
 
-Nitrogen is a Discord Nitro Generator that runs solely on HTML and Javascript.
+YA SEA UNA MENCION O ALGUN SPAM DE ESTE GEN GRACIAS POR UTILIZALO 
 
-For the generator, go to https://sitesgithub.github.io/nitro/
+ACCCEDE A ESTE GRATIS CON EL SIGUIENTE ENLACE 
